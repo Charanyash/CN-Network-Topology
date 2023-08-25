@@ -1,0 +1,9 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,435 ms,,,103.125.235.1,103.125.235.0/24,ProtonVPN-Tokyo-1,ProtonVPN,JP,3258.0,xTom Tokyo,XTOM-TOKYO,AU,Regional
+2,256 ms,202 ms,202 ms,211.14.4.177,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+3,213 ms,157 ms,255 ms,211.14.4.178,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+5,,161 ms,131 ms,210.171.225.67,,,,JP,,,,,
+6,379 ms,410 ms,410 ms,202.72.49.105,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+7,224 ms,128 ms,129 ms,202.72.48.164,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+8,166 ms,202 ms,298 ms,202.72.48.169,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+9,394 ms,127 ms,127 ms,133.237.16.234,133.237.0.0/16,Rakuten-CIDR-BLK-JP,"Rakuten Group, Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global

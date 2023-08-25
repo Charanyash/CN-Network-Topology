@@ -1,0 +1,14 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,4 ms,14 ms,3 ms,192.168.71.160,,,,,,,,,
+2,57 ms,28 ms,41 ms,10.72.171.38,,,,,,,,,
+3,40 ms,29 ms,38 ms,172.25.124.206,,,,,,,,,
+6,,59 ms,28 ms,172.26.100.82,,,,,,,,,
+7,43 ms,30 ms,35 ms,192.168.59.112,,,,,,,,,
+10,53 ms,55 ms,58 ms,209.85.168.26,209.85.128.0/17,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+11,134 ms,52 ms,73 ms,216.239.47.175,216.239.32.0/19,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+12,134 ms,65 ms,69 ms,108.170.248.202,108.170.192.0/18,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+13,164 ms,71 ms,57 ms,216.239.54.92,216.239.32.0/19,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+14,241 ms,97 ms,87 ms,142.250.56.39,142.250.0.0/15,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+15,156 ms,97 ms,99 ms,74.125.242.145,74.125.0.0/16,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+16,234 ms,83 ms,77 ms,216.239.54.159,216.239.32.0/19,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+17,268 ms,93 ms,90 ms,216.58.200.132,216.58.192.0/19,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global

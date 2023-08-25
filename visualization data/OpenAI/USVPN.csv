@@ -1,0 +1,11 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,316 ms,320 ms,306 ms,37.19.199.156,37.19.198.0/23,CDNEXT-NYC,CDNEXT NYC,US,212238,Datacamp Limited,CDNEXT,GB,Global
+1,316 ms,307 ms,405 ms,185.229.188.170,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+3,311 ms,297 ms,328 ms,154.54.3.9,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+4,264 ms,261 ms,290 ms,154.54.30.114,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+5,296 ms,287 ms,362 ms,38.122.34.130,38.0.0.0/8,,Microsoft Corporation,US,174,Cogent Communications,COGENT-174,US,Global
+6,321 ms,327 ms,316 ms,104.44.230.56,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+7,291 ms,400 ms,378 ms,104.44.33.207,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+8,,,336 ms,104.44.19.194,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+9,302 ms,302 ms,306 ms,104.44.21.224,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+16,284 ms,309 ms,292 ms,13.107.253.40,13.104.0.0/14,MSFT,Microsoft Corporation,US,8075,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global

@@ -1,0 +1,8 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,6 ms,3 ms,2 ms,192.168.71.160,,,,,,,,,
+2,76 ms,31 ms,28 ms,10.72.171.70,,,,,,,,,
+3,90 ms,29 ms,29 ms,172.25.124.210,,,,,,,,,
+4,,84 ms,,192.168.104.177,,,,,,,,,
+6,72 ms,31 ms,28 ms,172.26.100.82,,,,,,,,,
+7,94 ms,50 ms,29 ms,192.168.59.112,,,,,,,,,
+15,100 ms,38 ms,60 ms,151.101.156.81,151.101.0.0/16,SKYCA-3,Fastly,US,54113.0,"Fastly, Inc.",FASTLY,US,Global

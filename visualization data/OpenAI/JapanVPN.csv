@@ -1,0 +1,10 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,134 ms,165 ms,234 ms,103.125.235.1,103.125.235.0/24,ProtonVPN-Tokyo-1,ProtonVPN,JP,3258.0,xTom Tokyo,XTOM-TOKYO,AU,Regional
+1,138 ms,133 ms,,91.200.240.8,91.200.240.0/24,,,DE,3258.0,xTom Tokyo,XTOM-TOKYO,AU,Regional
+2,132 ms,137 ms,129 ms,211.14.4.177,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+3,127 ms,134 ms,127 ms,211.14.4.178,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+5,140 ms,136 ms,136 ms,210.171.224.110,,,,,,,,,
+6,,132 ms,162 ms,104.44.235.188,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+7,,148 ms,144 ms,104.44.236.182,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+8,134 ms,137 ms,133 ms,13.104.182.215,13.104.0.0/14,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+11,133 ms,128 ms,132 ms,13.107.246.46,13.104.0.0/14,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global

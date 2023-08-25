@@ -1,0 +1,6 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,141 ms,,,103.125.235.1,103.125.235.0/24,ProtonVPN-Tokyo-1,ProtonVPN,JP,3258,xTom Tokyo,XTOM-TOKYO,AU,Regional
+1,2686 ms,2079 ms,1779 ms,91.200.240.12,91.200.240.0/24,,,DE,3258,xTom Tokyo,XTOM-TOKYO,AU,Regional
+2,,147 ms,149 ms,101.203.89.164,101.203.88.0/22,,"BBIX, Inc.",JP,4775,Globe Telecoms,,PH,Global
+3,,188 ms,178 ms,101.203.89.177,101.203.88.0/22,,"BBIX, Inc.",JP,4775,Globe Telecoms,,PH,Global
+6,171 ms,133 ms,133 ms,104.71.158.210,104.64.0.0/10,AKAMAI,"Akamai Technologies, Inc.",US,20940,Akamai International B.V.,AKAMAI-ASN1,NL,Global

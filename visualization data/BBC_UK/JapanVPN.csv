@@ -1,0 +1,7 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,309 ms,297 ms,294 ms,37.19.199.156,37.19.198.0/23,CDNEXT-NYC,CDNEXT NYC,US,212238,Datacamp Limited,CDNEXT,GB,Global
+1,284 ms,285 ms,282 ms,185.229.188.174,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+3,326 ms,352 ms,351 ms,154.54.3.125,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+4,377 ms,304 ms,326 ms,154.54.90.58,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+5,344 ms,310 ms,295 ms,38.104.44.122,38.0.0.0/8,,Fastly,US,174,Cogent Communications,COGENT-174,US,Global
+6,306 ms,296 ms,298 ms,151.101.208.81,151.101.0.0/16,SKYCA-3,Fastly,US,54113,"Fastly, Inc.",FASTLY,US,Global

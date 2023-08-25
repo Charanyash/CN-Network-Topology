@@ -1,0 +1,8 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,207 ms,238 ms,163 ms,103.125.235.1,103.125.235.0/24,ProtonVPN-Tokyo-1,ProtonVPN,JP,3258.0,xTom Tokyo,XTOM-TOKYO,AU,Regional
+2,,130 ms,138 ms,211.14.4.177,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+3,133 ms,,145 ms,211.14.4.222,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+5,158 ms,149 ms,145 ms,210.171.224.96,,,,,,,,,
+6,138 ms,130 ms,131 ms,108.170.242.129,108.170.192.0/18,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+7,163 ms,141 ms,146 ms,142.251.60.195,142.250.0.0/15,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+8,144 ms,158 ms,135 ms,142.250.196.100,142.250.0.0/15,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global

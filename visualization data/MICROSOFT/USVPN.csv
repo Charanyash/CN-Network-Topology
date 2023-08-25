@@ -1,0 +1,8 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,295 ms,298 ms,304 ms,37.19.199.156,37.19.198.0/23,CDNEXT-NYC,CDNEXT NYC,US,212238,Datacamp Limited,CDNEXT,GB,Global
+1,331 ms,323 ms,321 ms,185.229.188.170,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+3,293 ms,288 ms,324 ms,154.54.3.125,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+4,343 ms,331 ms,335 ms,154.54.0.142,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+7,292 ms,268 ms,270 ms,64.125.28.111,64.124.0.0/15,NET64,American Registry for Internet Numbers,US,6461,Zayo Bandwidth,ZAYO-6461,US,Global
+8,327 ms,363 ms,403 ms,208.184.2.173,208.184.0.0/15,ABOVENET-6,Zayo Bandwidth,US,6461,Zayo Bandwidth,ZAYO-6461,US,Global
+12,358 ms,379 ms,407 ms,23.47.169.232,23.47.168.0/22,AKAMAI,"Akamai Technologies, Inc.",US,16625,"Akamai Technologies, Inc.",AKAMAI-AS,US,Global
