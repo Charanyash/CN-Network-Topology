@@ -1,4 +1,3 @@
-
 # CN-Network Topology Project 
 
 Welcome to the Network Topology Project repository! This repository contains all the necessary resources related to our project focused on network topology analysis. Below, you'll find an overview of the repository structure and how to navigate through its contents.
@@ -30,7 +29,7 @@ The repository is organized into the following main sections:
 
 ### Raw Data
 
-The raw data directory contains the original network data files that were collected for analysis. These files might include various formats like CSV, JSON, or Excel.
+The raw data directory contains the original network data files that were collected for analysis. These files are generated as txt files.
 
 ### Visualization Data
 
