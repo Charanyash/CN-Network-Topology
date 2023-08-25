@@ -1,0 +1,7 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,308 ms,320 ms,479 ms,37.19.199.157,37.19.198.0/23,CDNEXT-NYC,CDNEXT NYC,US,212238,Datacamp Limited,CDNEXT,GB,Global
+1,558 ms,285 ms,,185.229.188.172,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+2,326 ms,327 ms,332 ms,185.229.188.169,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+3,307 ms,285 ms,283 ms,45.134.215.17,45.134.215.0/24,CDN77-int,CDN77 int,GB,60068,CDN77,CDN77,GB,Regional
+4,303 ms,301 ms,307 ms,162.158.152.5,162.158.152.0/24,CLOUDFLARENET,"Cloudflare, Inc.",US,13335,"Cloudflare, Inc.",CLOUDFLARENET,US,Regional
+5,303 ms,308 ms,288 ms,170.114.52.2,170.114.52.0/24,ZVC,"Zoom Video Communications, Inc",US,209242,"Cloudflare, Inc.",CLOUDFLARESPECTRUM,US,Regional

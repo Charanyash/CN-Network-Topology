@@ -1,0 +1,15 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,4 ms,10 ms,3 ms,192.168.71.160,,,,,,,,,
+2,35 ms,23 ms,45 ms,10.72.171.38,,,,,,,,,
+3,35 ms,29 ms,39 ms,172.25.124.210,,,,,,,,,
+6,,65 ms,42 ms,172.26.100.82,,,,,,,,,
+7,70 ms,34 ms,38 ms,192.168.59.110,,,,,,,,,
+10,59 ms,49 ms,39 ms,49.44.187.135,49.44.128.0/17,RELIANCEJIO-IN,Reliance Jio Infocomm Limited,IN,55836.0,Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Global
+11,57 ms,35 ms,39 ms,104.44.239.204,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+12,117 ms,67 ms,53 ms,104.44.11.81,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+13,89 ms,48 ms,59 ms,104.44.29.110,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+14,100 ms,60 ms,63 ms,104.44.30.201,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+15,126 ms,60 ms,48 ms,104.44.34.38,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+16,169 ms,61 ms,51 ms,104.44.230.7,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+18,146 ms,119 ms,60 ms,104.44.212.200,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+22,72 ms,46 ms,59 ms,13.107.213.48,13.104.0.0/14,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global

@@ -1,0 +1,13 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,5 ms,5 ms,5 ms,192.168.31.1,,,,,,,,,
+1,5 ms,1 ms,1 ms,10.5.82.1,,,,,,,,,
+2,12 ms,12 ms,2 ms,192.168.41.149,,,,,,,,,
+3,4 ms,1 ms,1 ms,103.232.241.70,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+4,4 ms,2 ms,2 ms,103.232.241.2,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+5,7 ms,2 ms,3 ms,10.119.254.121,,,,,,,,,
+6,5 ms,4 ms,4 ms,10.160.24.5,,,,,,,,,
+7,4 ms,3 ms,3 ms,10.255.221.33,,,,,,,,,
+8,8 ms,6 ms,4 ms,115.247.100.29,115.240.0.0/13,RELIANCEJIO-IN,Reliance Jio Infocomm Limited,IN,55836.0,Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Global
+10,30 ms,34 ms,32 ms,162.158.226.122,162.158.226.0/23,CLOUDFLARENET,"Cloudflare, Inc.",US,13335.0,"Cloudflare, Inc.",CLOUDFLARENET,US,Global
+11,52 ms,42 ms,,172.71.196.4,172.71.196.0/24,CLOUDFLARENET,"Cloudflare, Inc.",US,13335.0,"Cloudflare, Inc.",CLOUDFLARENET,US,Regional
+12,30 ms,29 ms,29 ms,170.114.52.2,170.114.52.0/24,ZVC,"Zoom Video Communications, Inc",US,209242.0,"Cloudflare, Inc.",CLOUDFLARESPECTRUM,US,Regional

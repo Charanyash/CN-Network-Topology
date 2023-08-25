@@ -1,0 +1,23 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,1 ms,1 ms,<1 ms,192.168.31.1,,,,,,,,,
+1,2 ms,1 ms,1 ms,10.5.82.1,,,,,,,,,
+2,72 ms,75 ms,5 ms,192.168.41.149,,,,,,,,,
+3,15 ms,2 ms,1 ms,103.232.241.70,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+4,7 ms,1 ms,1 ms,103.232.241.2,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+5,5 ms,1 ms,2 ms,10.119.254.121,,,,,,,,,
+6,7 ms,6 ms,3 ms,10.160.24.5,,,,,,,,,
+7,26 ms,7 ms,3 ms,10.255.222.33,,,,,,,,,
+8,76 ms,5 ms,5 ms,115.247.100.29,115.240.0.0/13,RELIANCEJIO-IN,Reliance Jio Infocomm Limited,IN,55836.0,Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Global
+11,94 ms,149 ms,65 ms,49.45.4.86,49.45.0.0/16,RELIANCEJIO-IN,Reliance Jio Infocomm Limited,IN,55836.0,Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Global
+12,57 ms,53 ms,91 ms,49.45.4.86,49.45.0.0/16,RELIANCEJIO-IN,Reliance Jio Infocomm Limited,IN,55836.0,Reliance Jio Infocomm Limited,RELIANCEJIO-IN,IN,Global
+13,53 ms,160 ms,52 ms,210.57.38.112,210.57.38.0/24,TELSTRAGLOBAL-US,Telstra Global Internet Service,SG,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Regional
+15,97 ms,,,202.84.140.50,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+16,86 ms,85 ms,85 ms,202.84.153.38,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+17,127 ms,86 ms,201 ms,134.159.129.18,134.159.0.0/16,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,AU,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+18,203 ms,204 ms,204 ms,58.138.81.173,58.138.0.0/17,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497.0,Internet Initiative Japan Inc.,IIJ,JP,Global
+19,224 ms,202 ms,412 ms,58.138.101.34,58.138.0.0/17,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497.0,Internet Initiative Japan Inc.,IIJ,JP,Global
+20,443 ms,304 ms,304 ms,202.232.9.10,202.232.0.0/16,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497.0,Internet Initiative Japan Inc.,IIJ,JP,Global
+21,358 ms,264 ms,348 ms,202.72.48.206,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+22,260 ms,385 ms,305 ms,202.72.48.164,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+23,265 ms,291 ms,652 ms,202.72.48.165,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+24,338 ms,261 ms,351 ms,133.237.16.234,133.237.0.0/16,Rakuten-CIDR-BLK-JP,"Rakuten Group, Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global

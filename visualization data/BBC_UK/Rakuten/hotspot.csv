@@ -1,0 +1,19 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,4 ms,3 ms,4 ms,192.168.71.160,,,,,,,,,
+2,88 ms,47 ms,30 ms,10.72.171.38,,,,,,,,,
+3,68 ms,30 ms,47 ms,172.25.124.212,,,,,,,,,
+4,,70 ms,,192.168.104.177,,,,,,,,,
+10,148 ms,47 ms,40 ms,103.198.140.64,103.198.140.0/24,RJIPL-SG,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG,64049.0,Reliance Jio Infocomm Pte Ltd Singapore,RJIPL-SG,SG,Regional
+11,118 ms,77 ms,78 ms,103.198.140.249,103.198.140.0/24,RJIPL-SG,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG,64049.0,Reliance Jio Infocomm Pte Ltd Singapore,RJIPL-SG,SG,Regional
+12,243 ms,78 ms,80 ms,210.57.38.112,210.57.38.0/24,TELSTRAGLOBAL-US,Telstra Global Internet Service,SG,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Regional
+13,200 ms,92 ms,78 ms,202.84.224.198,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+14,105 ms,110 ms,179 ms,202.84.143.177,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+15,217 ms,202 ms,204 ms,202.84.173.22,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+16,211 ms,203 ms,131 ms,134.159.129.18,134.159.0.0/16,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,AU,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+17,218 ms,202 ms,203 ms,58.138.81.173,58.138.0.0/17,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497.0,Internet Initiative Japan Inc.,IIJ,JP,Global
+18,211 ms,203 ms,203 ms,58.138.101.38,58.138.0.0/17,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497.0,Internet Initiative Japan Inc.,IIJ,JP,Global
+19,631 ms,298 ms,307 ms,202.232.9.10,202.232.0.0/16,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497.0,Internet Initiative Japan Inc.,IIJ,JP,Global
+20,581 ms,613 ms,612 ms,202.72.48.206,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+21,372 ms,613 ms,408 ms,202.72.48.164,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+22,452 ms,613 ms,408 ms,202.72.48.165,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+23,675 ms,818 ms,408 ms,133.237.16.234,133.237.0.0/16,Rakuten-CIDR-BLK-JP,"Rakuten Group, Inc.",JP,23820.0,"Rakuten Group, Inc.",RAKUTEN,JP,Global

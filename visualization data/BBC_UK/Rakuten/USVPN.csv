@@ -1,0 +1,19 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,323 ms,264 ms,348 ms,37.19.199.156,37.19.198.0/23,CDNEXT-NYC,CDNEXT NYC,US,212238,Datacamp Limited,CDNEXT,GB,Global
+1,263 ms,330 ms,261 ms,185.229.188.170,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+3,360 ms,280 ms,347 ms,154.54.3.9,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+4,268 ms,321 ms,304 ms,154.54.40.106,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+5,356 ms,284 ms,284 ms,154.54.7.158,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+6,365 ms,299 ms,298 ms,154.54.28.70,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+7,450 ms,412 ms,363 ms,154.54.0.54,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+8,466 ms,460 ms,323 ms,154.54.5.217,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+9,334 ms,429 ms,410 ms,154.54.44.86,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+10,337 ms,344 ms,477 ms,154.54.27.118,154.48.0.0/12,NET154,African Network Information Center,MU,174,Cogent Communications,COGENT-174,US,Global
+11,473 ms,516 ms,334 ms,38.19.140.218,38.0.0.0/8,COGENT-A,"PSINet, Inc.",US,174,Cogent Communications,COGENT-174,US,Global
+12,509 ms,460 ms,557 ms,58.138.88.157,58.138.0.0/17,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497,Internet Initiative Japan Inc.,IIJ,JP,Global
+13,444 ms,451 ms,445 ms,58.138.101.34,58.138.0.0/17,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497,Internet Initiative Japan Inc.,IIJ,JP,Global
+14,561 ms,440 ms,487 ms,202.232.9.10,202.232.0.0/16,IIJ-CIDR-BLK-JP,Internet Initiative Japan Inc.,JP,2497,Internet Initiative Japan Inc.,IIJ,JP,Global
+15,441 ms,468 ms,615 ms,202.72.48.206,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+16,491 ms,519 ms,610 ms,202.72.48.164,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+17,,448 ms,561 ms,202.72.48.165,202.72.48.0/20,Rakuten-CIDR-BLK-JP,"Rakuten,Inc.",JP,23820,"Rakuten Group, Inc.",RAKUTEN,JP,Global
+18,447 ms,444 ms,444 ms,133.237.16.234,133.237.0.0/16,Rakuten-CIDR-BLK-JP,"Rakuten Group, Inc.",JP,23820,"Rakuten Group, Inc.",RAKUTEN,JP,Global

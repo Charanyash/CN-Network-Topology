@@ -1,0 +1,14 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,3 ms,3 ms,2 ms,192.168.71.160,,,,,,,,,
+2,56 ms,38 ms,33 ms,10.72.171.70,,,,,,,,,
+3,51 ms,60 ms,38 ms,172.25.124.210,,,,,,,,,
+4,55 ms,,,192.168.104.177,,,,,,,,,
+7,59 ms,29 ms,30 ms,192.168.59.112,,,,,,,,,
+10,93 ms,59 ms,46 ms,103.198.140.176,103.198.140.0/24,RJIPL-SG,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG,64049.0,Reliance Jio Infocomm Pte Ltd Singapore,RJIPL-SG,SG,Regional
+11,291 ms,233 ms,258 ms,103.198.140.215,103.198.140.0/24,RJIPL-SG,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG,64049.0,Reliance Jio Infocomm Pte Ltd Singapore,RJIPL-SG,SG,Regional
+12,335 ms,202 ms,209 ms,103.198.140.106,103.198.140.0/24,RJIPL-SG,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG,64049.0,Reliance Jio Infocomm Pte Ltd Singapore,RJIPL-SG,SG,Regional
+13,255 ms,201 ms,306 ms,103.198.140.43,103.198.140.0/24,RJIPL-SG,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG,64049.0,Reliance Jio Infocomm Pte Ltd Singapore,RJIPL-SG,SG,Regional
+16,235 ms,204 ms,204 ms,62.67.23.38,62.67.0.0/16,,,GB,3356.0,"Level 3 Parent, LLC",LEVEL3,US,Global
+17,296 ms,317 ms,204 ms,212.227.117.208,212.227.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+18,302 ms,299 ms,306 ms,212.227.121.28,212.227.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+19,308 ms,203 ms,306 ms,217.160.0.86,217.160.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global

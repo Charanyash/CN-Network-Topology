@@ -1,0 +1,12 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,2 ms,1 ms,1 ms,192.168.31.1,,,,,,,,,
+1,2 ms,9 ms,1 ms,10.5.82.1,,,,,,,,,
+2,66 ms,65 ms,3 ms,192.168.41.149,,,,,,,,,
+3,2 ms,2 ms,1 ms,103.232.241.70,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+4,104 ms,80 ms,100 ms,103.232.241.2,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+5,89 ms,39 ms,101 ms,10.119.254.121,,,,,,,,,
+8,28 ms,36 ms,33 ms,10.119.73.122,,,,,,,,,
+9,31 ms,30 ms,30 ms,72.14.195.128,72.14.192.0/18,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+10,31 ms,32 ms,31 ms,142.251.227.211,142.250.0.0/15,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+11,30 ms,29 ms,28 ms,142.251.55.243,142.250.0.0/15,GOOGLE,Google LLC,US,15169.0,Google LLC,GOOGLE,US,Global
+12,29 ms,29 ms,28 ms,4.55.111.34,4.0.0.0/9,LVLT-ORG-4-8,"Level 3 Parent, LLC",US,3356.0,"Level 3 Parent, LLC",LEVEL3,US,Global

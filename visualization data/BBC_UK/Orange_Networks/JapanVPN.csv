@@ -1,0 +1,14 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,192 ms,,244 ms,103.125.235.1,103.125.235.0/24,ProtonVPN-Tokyo-1,ProtonVPN,JP,3258.0,xTom Tokyo,XTOM-TOKYO,AU,Regional
+2,176 ms,245 ms,424 ms,211.14.4.177,211.14.0.0/21,JPNIC-NET-JP,Japan Network Information Center,JP,9607.0,"BroadBand Tower, Inc.",BBTower,JP,Global
+5,188 ms,205 ms,204 ms,202.127.69.134,202.127.69.0/24,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network /24 Block,JP,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Regional
+6,292 ms,205 ms,,202.84.148.69,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+7,,345 ms,240 ms,202.84.141.1,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+8,449 ms,448 ms,413 ms,202.84.249.10,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+9,397 ms,402 ms,511 ms,202.84.178.54,202.84.128.0/17,TELSTRAGLOBAL-AP,Telstra Global Internet Services Network Blocks,HK,4637.0,Telstra Global,ASN-TELSTRA-GLOBAL,HK,Global
+10,476 ms,418 ms,616 ms,195.66.236.98,,,,,,,,,
+11,,400 ms,427 ms,212.227.117.4,212.227.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+12,455 ms,408 ms,513 ms,212.227.120.32,212.227.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+13,435 ms,473 ms,437 ms,212.227.117.207,212.227.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+14,491 ms,441 ms,524 ms,212.227.116.221,212.227.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+15,428 ms,451 ms,414 ms,217.160.0.86,217.160.0.0/16,,,DE,8560.0,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global

@@ -1,0 +1,13 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,1 ms,1 ms,1 ms,192.168.31.1,,,,,,,,,
+1,2 ms,5 ms,4 ms,10.5.82.1,,,,,,,,,
+2,50 ms,3 ms,4 ms,192.168.41.149,,,,,,,,,
+3,4 ms,3 ms,3 ms,103.232.241.70,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+4,3 ms,2 ms,2 ms,103.232.241.2,103.232.241.0/24,D3079306-AFIN,IIT Hyderabad,IN,59193.0,IIT Hyderabad,D3079306AFIN-AS,IN,Regional
+5,4 ms,2 ms,4 ms,10.119.254.121,,,,,,,,,
+6,46 ms,39 ms,44 ms,10.160.24.5,,,,,,,,,
+7,34 ms,34 ms,36 ms,10.255.232.201,,,,,,,,,
+8,,34 ms,31 ms,10.152.7.214,,,,,,,,,
+9,84 ms,40 ms,,104.44.12.6,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+11,39 ms,51 ms,96 ms,104.44.212.200,104.40.0.0/13,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global
+13,35 ms,32 ms,35 ms,13.107.246.48,13.104.0.0/14,MSFT,Microsoft Corporation,US,8075.0,Microsoft Corporation,MICROSOFT-CORP-MSN-AS-BLOCK,US,Global

@@ -1,0 +1,14 @@
+index,1,2,3,ip,IP_range,IP_Name,IP_description,IP_Country,ASN_Number,ASN_description,ASN_Name,ASN_Country_Code,IP_Type
+0,426 ms,261 ms,291 ms,37.19.199.156,37.19.198.0/23,CDNEXT-NYC,CDNEXT NYC,US,212238,Datacamp Limited,CDNEXT,GB,Global
+1,446 ms,305 ms,262 ms,185.229.188.174,185.229.188.0/23,UK-DATACAMP-20171102,Datacamp Limited,GB,60068,CDN77,CDN77,GB,Global
+2,567 ms,273 ms,271 ms,62.115.191.217,62.115.0.0/16,,,SE,1299,"Arelion, f/k/a Telia Carrier",TWELVE99,SE,Global
+3,403 ms,272 ms,413 ms,62.115.143.16,62.115.0.0/16,,,SE,1299,"Arelion, f/k/a Telia Carrier",TWELVE99,SE,Global
+4,338 ms,533 ms,341 ms,62.115.113.21,62.115.0.0/16,,,SE,1299,"Arelion, f/k/a Telia Carrier",TWELVE99,SE,Global
+5,399 ms,410 ms,409 ms,80.91.249.11,80.91.240.0/20,SE-TELIAEU-20050620,Telia Company AB,EU,1299,"Arelion, f/k/a Telia Carrier",TWELVE99,SE,Global
+7,428 ms,422 ms,404 ms,62.115.112.157,62.115.0.0/16,,,SE,1299,"Arelion, f/k/a Telia Carrier",TWELVE99,SE,Global
+8,552 ms,523 ms,401 ms,213.248.88.90,213.248.64.0/18,,,SE,1299,"Arelion, f/k/a Telia Carrier",TWELVE99,SE,Global
+9,416 ms,410 ms,409 ms,212.227.120.11,212.227.0.0/16,,,DE,8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+10,522 ms,403 ms,409 ms,212.227.120.40,212.227.0.0/16,,,DE,8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+11,421 ms,414 ms,410 ms,212.227.117.207,212.227.0.0/16,,,DE,8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+12,360 ms,358 ms,427 ms,212.227.116.221,212.227.0.0/16,,,DE,8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
+13,438 ms,634 ms,522 ms,217.160.0.86,217.160.0.0/16,,,DE,8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",IONOS-AS,DE,Global
