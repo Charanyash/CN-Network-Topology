@@ -1,0 +1,6 @@
+  2   216 ms   407 ms   411 ms  185.107.56.254 
+  3   327 ms   202 ms   207 ms  185.107.116.21 
+  4   243 ms   201 ms   205 ms  et-0-1-0.core-ams14.as6724.net [80.249.210.180] 
+  5   355 ms   204 ms   162 ms  ae-12-0.bb-a.tp.kae.de.net.ionos.com [212.227.120.229] 
+  6   384 ms   201 ms   204 ms  port-channel-2.gw-distd-sh-1.bs.kae.de.net.ionos.com [212.227.116.221] 
+  7   160 ms   259 ms   202 ms  217-160-0-86.elastic-ssl.ui-r.com [217.160.0.86] 

@@ -1,0 +1,20 @@
+  1     3 ms     3 ms     2 ms  192.168.71.160 
+  2     *        *        *     Request timed out.
+  3    56 ms    38 ms    33 ms  10.72.171.70 
+  4    51 ms    60 ms    38 ms  172.25.124.210 
+  5    55 ms     *        *     192.168.104.177 
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8    59 ms    29 ms    30 ms  192.168.59.112 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11    93 ms    59 ms    46 ms  103.198.140.176 
+ 12   291 ms   233 ms   258 ms  103.198.140.215 
+ 13   335 ms   202 ms   209 ms  103.198.140.106 
+ 14   255 ms   201 ms   306 ms  103.198.140.43 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17   235 ms   204 ms   204 ms  11-INTERNET.ear6.Frankfurt1.Level3.net [62.67.23.38] 
+ 18   296 ms   317 ms   204 ms  lo-0-0.rc-a.bap.rhr.de.net.ionos.com [212.227.117.208] 
+ 19   302 ms   299 ms   306 ms  port-channel-2.gw-distd-sh-2.bap.rhr.de.net.ionos.com [212.227.121.28] 
+ 20   308 ms   203 ms   306 ms  217-160-0-86.elastic-ssl.ui-r.com [217.160.0.86] 

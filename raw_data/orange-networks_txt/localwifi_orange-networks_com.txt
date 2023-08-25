@@ -1,0 +1,20 @@
+  1     3 ms     1 ms     1 ms  XiaoQiang [192.168.31.1] 
+  2     3 ms     1 ms     1 ms  10.5.82.1 
+  3     6 ms     2 ms     3 ms  192.168.41.149 
+  4     5 ms     1 ms     1 ms  103.232.241.70 
+  5     2 ms     2 ms     1 ms  noc-cr-in.comp.iith.ac.in [103.232.241.2] 
+  6    55 ms     3 ms     2 ms  10.119.254.121 
+  7   101 ms     4 ms     3 ms  10.160.24.5 
+  8   126 ms    79 ms     4 ms  10.255.222.33 
+  9     6 ms     4 ms     4 ms  115.247.100.29 
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15   229 ms   191 ms   209 ms  5-2-2.ear3.London2.Level3.net [195.50.117.33] 
+ 16     *        *        *     Request timed out.
+ 17   321 ms   203 ms   409 ms  11-INTERNET.ear6.Frankfurt1.Level3.net [62.67.23.38] 
+ 18   212 ms   202 ms   206 ms  lo-0-0.rc-a.bap.rhr.de.net.ionos.com [212.227.117.208] 
+ 19   209 ms   208 ms   208 ms  port-channel-2.gw-distd-sh-1.bap.rhr.de.net.ionos.com [212.227.121.9] 
+ 20   222 ms   207 ms   218 ms  217-160-0-86.elastic-ssl.ui-r.com [217.160.0.86] 

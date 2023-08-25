@@ -1,0 +1,14 @@
+  2   426 ms   261 ms   291 ms  unn-37-19-199-156.datapacket.com [37.19.199.156] 
+  3   446 ms   305 ms   262 ms  vl202.nyc-tlx3-core-2.cdn77.com [185.229.188.174] 
+  4   567 ms   273 ms   271 ms  nyk-b8-link.ip.twelve99.net [62.115.191.217] 
+  5   403 ms   272 ms   413 ms  nyk-bb2-link.ip.twelve99.net [62.115.143.16] 
+  6   338 ms   533 ms   341 ms  ldn-bb1-link.ip.twelve99.net [62.115.113.21] 
+  7   399 ms   410 ms   409 ms  hbg-bb3-link.ip.twelve99.net [80.91.249.11] 
+  8     *        *        *     Request timed out.
+  9   428 ms   422 ms   404 ms  bei-b2-link.ip.twelve99.net [62.115.112.157] 
+ 10   552 ms   523 ms   401 ms  0.et-0-1-2.bb-rt2-1.g32.rh01.ak.ber.de.as6724.net [213.248.88.90] 
+ 11   416 ms   410 ms   409 ms  212.227.120.11 
+ 12   522 ms   403 ms   409 ms  ae-22.bb-b.fr7.fra.de.oneandone.net [212.227.120.40] 
+ 13   421 ms   414 ms   410 ms  lo-0.rc-b.bs.kae.de.net.ionos.com [212.227.117.207] 
+ 14   360 ms   358 ms   427 ms  port-channel-2.gw-distd-sh-1.bs.kae.de.net.ionos.com [212.227.116.221] 
+ 15   438 ms   634 ms   522 ms  217-160-0-86.elastic-ssl.ui-r.com [217.160.0.86] 

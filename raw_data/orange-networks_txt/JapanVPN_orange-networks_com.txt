@@ -1,0 +1,16 @@
+  2   192 ms     *      244 ms  103.125.235.1 
+  3     *        *        *     Request timed out.
+  4   176 ms   245 ms   424 ms  as3258.xe-0-1-7.tedge0503.newote.bbtower.ad.jp [211.14.4.177] 
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7   188 ms   205 ms   204 ms  unknown.telstraglobal.net [202.127.69.134] 
+  8   292 ms   205 ms     *     unknown.telstraglobal.net [202.84.148.69] 
+  9     *      345 ms   240 ms  i-10857.eqnx-core02.telstraglobal.net [202.84.141.1] 
+ 10   449 ms   448 ms   413 ms  202.84.249.10 
+ 11   397 ms   402 ms   511 ms  i-1007.ulhc02.telstraglobal.net [202.84.178.54] 
+ 12   476 ms   418 ms   616 ms  linx.bb-d.ba.slo.gb.oneandone.net [195.66.236.98] 
+ 13     *      400 ms   427 ms  lo-0.bb-b.thn.lon.gb.net.ionos.com [212.227.117.4] 
+ 14   455 ms   408 ms   513 ms  ae-19.bb-b.fr7.fra.de.net.ionos.com [212.227.120.32] 
+ 15   435 ms   473 ms   437 ms  lo-0.rc-b.bs.kae.de.net.ionos.com [212.227.117.207] 
+ 16   491 ms   441 ms   524 ms  port-channel-2.gw-distd-sh-1.bs.kae.de.net.ionos.com [212.227.116.221] 
+ 17   428 ms   451 ms   414 ms  217-160-0-86.elastic-ssl.ui-r.com [217.160.0.86] 
