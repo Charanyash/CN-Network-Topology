@@ -1,0 +1,10 @@
+group.ntt
+www.isro.gov.in
+www.abc.net.au
+www.microsoft.com
+www.theguardian.com
+www.globalsuzuki.com
+openai.com
+zoom.us
+in.micron.com
+hdfc.com
