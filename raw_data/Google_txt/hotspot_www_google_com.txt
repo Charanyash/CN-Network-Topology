@@ -1,0 +1,18 @@
+  1     4 ms    14 ms     3 ms  192.168.71.160 
+  2     *        *        *     Request timed out.
+  3    57 ms    28 ms    41 ms  10.72.171.38 
+  4    40 ms    29 ms    38 ms  172.25.124.206 
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *       59 ms    28 ms  172.26.100.82 
+  8    43 ms    30 ms    35 ms  192.168.59.112 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11    53 ms    55 ms    58 ms  209.85.168.26 
+ 12   134 ms    52 ms    73 ms  216.239.47.175 
+ 13   134 ms    65 ms    69 ms  108.170.248.202 
+ 14   164 ms    71 ms    57 ms  216.239.54.92 
+ 15   241 ms    97 ms    87 ms  142.250.56.39 
+ 16   156 ms    97 ms    99 ms  74.125.242.145 
+ 17   234 ms    83 ms    77 ms  216.239.54.159 
+ 18   268 ms    93 ms    90 ms  maa05s10-in-f4.1e100.net [216.58.200.132] 

@@ -1,0 +1,7 @@
+  2   173 ms   158 ms   167 ms  185.107.56.254 
+  3     *      183 ms   185 ms  185.107.116.21 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8   176 ms   168 ms   173 ms  a104-123-41-162.deploy.static.akamaitechnologies.com [104.123.41.162] 

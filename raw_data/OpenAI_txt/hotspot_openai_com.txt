@@ -1,0 +1,23 @@
+  1     4 ms    10 ms     3 ms  192.168.71.160 
+  2     *        *        *     Request timed out.
+  3    35 ms    23 ms    45 ms  10.72.171.38 
+  4    35 ms    29 ms    39 ms  172.25.124.210 
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *       65 ms    42 ms  172.26.100.82 
+  8    70 ms    34 ms    38 ms  192.168.59.110 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11    59 ms    49 ms    39 ms  49.44.187.135 
+ 12    57 ms    35 ms    39 ms  ae23-0.icr02.nag20.ntwk.msn.net [104.44.239.204] 
+ 13   117 ms    67 ms    53 ms  be-122-0.ibr02.nag20.ntwk.msn.net [104.44.11.81] 
+ 14    89 ms    48 ms    59 ms  be-2-0.ibr02.bom31.ntwk.msn.net [104.44.29.110] 
+ 15   100 ms    60 ms    63 ms  be-8-0.ibr04.bom02.ntwk.msn.net [104.44.30.201] 
+ 16   126 ms    60 ms    48 ms  ae21-0.ear02.bom02.ntwk.msn.net [104.44.34.38] 
+ 17   169 ms    61 ms    51 ms  ae26-0.ier03.bom02.ntwk.msn.net [104.44.230.7] 
+ 18     *        *        *     Request timed out.
+ 19   146 ms   119 ms    60 ms  104.44.212.200 
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23    72 ms    46 ms    59 ms  13.107.213.48 

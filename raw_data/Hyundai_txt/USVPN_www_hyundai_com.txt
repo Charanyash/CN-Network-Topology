@@ -1,0 +1,7 @@
+  2   371 ms   267 ms   261 ms  unn-37-19-199-157.datapacket.com [37.19.199.157] 
+  3   265 ms     *      288 ms  vl203.nyc-tlx3-core-1.cdn77.com [185.229.188.172] 
+  4   282 ms   275 ms   282 ms  nyk-b8-link.ip.twelve99.net [213.248.70.121] 
+  5   305 ms   304 ms   301 ms  72.14.204.154 
+  6   476 ms   373 ms   323 ms  142.250.63.91 
+  7  1007 ms   588 ms   983 ms  209.85.253.143 
+  8   273 ms   269 ms   281 ms  4.55.111.34.bc.googleusercontent.com [34.111.55.4] 

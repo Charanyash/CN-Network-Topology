@@ -1,0 +1,7 @@
+  2   295 ms   295 ms   281 ms  unn-37-19-199-156.datapacket.com [37.19.199.156] 
+  3   297 ms   285 ms   264 ms  vl201.nyc-tlx3-core-1.cdn77.com [185.229.188.170] 
+  4   272 ms   267 ms   286 ms  et-1-0-23.cr2-nyc2.ip4.gtt.net [209.120.246.61] 
+  5   309 ms   279 ms   290 ms  ae24.cr4-nyc6.ip4.gtt.net [213.200.121.6] 
+  6   277 ms   288 ms   290 ms  ip4.gtt.net [98.124.184.66] 
+  7   321 ms   415 ms   331 ms  ae3.sentinel-ewr4.netarch.akamai.com [23.203.156.187] 
+  8   335 ms   310 ms   316 ms  a69-192-23-106.deploy.static.akamaitechnologies.com [69.192.23.106] 

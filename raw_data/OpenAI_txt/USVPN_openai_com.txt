@@ -1,0 +1,17 @@
+  2   316 ms   320 ms   306 ms  unn-37-19-199-156.datapacket.com [37.19.199.156] 
+  3   316 ms   307 ms   405 ms  vl201.nyc-tlx3-core-1.cdn77.com [185.229.188.170] 
+  4     *        *        *     Request timed out.
+  5   311 ms   297 ms   328 ms  be3362.ccr41.jfk02.atlas.cogentco.com [154.54.3.9] 
+  6   264 ms   261 ms   290 ms  be2967.rcr22.ewr03.atlas.cogentco.com [154.54.30.114] 
+  7   296 ms   287 ms   362 ms  38.122.34.130 
+  8   321 ms   327 ms   316 ms  ae26-0.ear04.nyc30.ntwk.msn.net [104.44.230.56] 
+  9   291 ms   400 ms   378 ms  be-24-0.ibr01.nyc30.ntwk.msn.net [104.44.33.207] 
+ 10     *        *      336 ms  be-8-0.ibr03.bl20.ntwk.msn.net [104.44.19.194] 
+ 11   302 ms   302 ms   306 ms  ae142-0.icr02.bl20.ntwk.msn.net [104.44.21.224] 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18   284 ms   309 ms   292 ms  13.107.253.40 

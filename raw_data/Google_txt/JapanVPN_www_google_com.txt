@@ -1,0 +1,9 @@
+  2   207 ms   238 ms   163 ms  103.125.235.1
+  3     *        *        *     Request timed out.
+  4     *      130 ms   138 ms  as3258.xe-0-1-7.tedge0503.newote.bbtower.ad.jp [211.14.4.177]
+  5   133 ms     *      145 ms  xe-0-1-7.tedge0504.newote.bbtower.ad.jp [211.14.4.222]
+  6     *        *        *     Request timed out.
+  7   158 ms   149 ms   145 ms  210.171.224.96
+  8   138 ms   130 ms   131 ms  108.170.242.129
+  9   163 ms   141 ms   146 ms  142.251.60.195
+ 10   144 ms   158 ms   135 ms  nrt12s35-in-f4.1e100.net [142.250.196.100]

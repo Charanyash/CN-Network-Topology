@@ -1,0 +1,7 @@
+  2   309 ms   297 ms   294 ms  unn-37-19-199-156.datapacket.com [37.19.199.156] 
+  3   284 ms   285 ms   282 ms  vl202.nyc-tlx3-core-2.cdn77.com [185.229.188.174] 
+  4     *        *        *     Request timed out.
+  5   326 ms   352 ms   351 ms  be3363.ccr42.jfk02.atlas.cogentco.com [154.54.3.125] 
+  6   377 ms   304 ms   326 ms  be3071.rcr52.ewr01.atlas.cogentco.com [154.54.90.58] 
+  7   344 ms   310 ms   295 ms  38.104.44.122 
+  8   306 ms   296 ms   298 ms  151.101.208.81 

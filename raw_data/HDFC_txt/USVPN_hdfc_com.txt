@@ -1,0 +1,6 @@
+  2   476 ms   555 ms   315 ms  unn-37-19-199-156.datapacket.com [37.19.199.156] 
+  3   466 ms   413 ms   300 ms  vl201.nyc-tlx3-core-1.cdn77.com [185.229.188.170] 
+  4   336 ms   714 ms   443 ms  vl250.nyc-tlx3-core-2.cdn77.com [185.229.188.169] 
+  5   580 ms   406 ms   353 ms  cloudflare-nyc.cdn77.com [45.134.215.17] 
+  6   351 ms   951 ms   431 ms  172.70.108.4 
+  7   351 ms   387 ms   430 ms  104.16.115.21 

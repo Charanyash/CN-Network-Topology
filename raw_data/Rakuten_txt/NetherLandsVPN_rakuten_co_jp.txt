@@ -1,0 +1,13 @@
+  2   163 ms   184 ms     *     185.107.56.254
+  3   219 ms   232 ms   298 ms  ae-20-4081.a01.amstnl07.nl.bb.gin.ntt.net [81.20.64.113]
+  4   318 ms   305 ms   303 ms  ae-3.r20.amstnl07.nl.bb.gin.ntt.net [129.250.7.86]
+  5     *        *        *     Request timed out.
+  6   382 ms   245 ms   236 ms  ae-7.r20.nwrknj03.us.bb.gin.ntt.net [129.250.6.147]
+  7   415 ms   616 ms   409 ms  ae-4.r24.sttlwa01.us.bb.gin.ntt.net [129.250.6.177]
+  8   437 ms     *        *     ae-9.r32.tokyjp05.jp.bb.gin.ntt.net [129.250.4.143]
+  9   501 ms   494 ms   589 ms  ae-2.r00.tokyjp08.jp.bb.gin.ntt.net [129.250.6.127]
+ 10   601 ms   507 ms   411 ms  ae-12-2030.r00.tokyjp08.jp.ce.gin.ntt.net [203.105.72.218]
+ 11   406 ms   401 ms   452 ms  202.72.49.107
+ 12   447 ms   446 ms   438 ms  202.72.48.166
+ 13   456 ms   428 ms   408 ms  202.72.48.171
+ 14   817 ms   557 ms   468 ms  rakuten.co.jp [133.237.16.234]

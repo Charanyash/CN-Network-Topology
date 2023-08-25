@@ -1,0 +1,19 @@
+  2   323 ms   264 ms   348 ms  unn-37-19-199-156.datapacket.com [37.19.199.156]
+  3   263 ms   330 ms   261 ms  vl201.nyc-tlx3-core-1.cdn77.com [185.229.188.170]
+  4     *        *        *     Request timed out.
+  5   360 ms   280 ms   347 ms  be3362.ccr41.jfk02.atlas.cogentco.com [154.54.3.9]
+  6   268 ms   321 ms   304 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106]
+  7   356 ms   284 ms   284 ms  be2112.ccr41.atl01.atlas.cogentco.com [154.54.7.158]
+  8   365 ms   299 ms   298 ms  be2687.ccr41.iah01.atlas.cogentco.com [154.54.28.70]
+  9   450 ms   412 ms   363 ms  be3850.ccr21.elp02.atlas.cogentco.com [154.54.0.54]
+ 10   466 ms   460 ms   323 ms  be2979.ccr31.phx01.atlas.cogentco.com [154.54.5.217]
+ 11   334 ms   429 ms   410 ms  be2931.ccr41.lax01.atlas.cogentco.com [154.54.44.86]
+ 12   337 ms   344 ms   477 ms  be3243.ccr41.lax05.atlas.cogentco.com [154.54.27.118]
+ 13   473 ms   516 ms   334 ms  38.19.140.218
+ 14   509 ms   460 ms   557 ms  tky001bb01.iij.net [58.138.88.157]
+ 15   444 ms   451 ms   445 ms  tky001ip56.iij.net [58.138.101.34]
+ 16   561 ms   440 ms   487 ms  202.232.9.10
+ 17   441 ms   468 ms   615 ms  202.72.48.206
+ 18   491 ms   519 ms   610 ms  202.72.48.164
+ 19     *      448 ms   561 ms  202.72.48.165
+ 20   447 ms   444 ms   444 ms  rakuten.co.jp [133.237.16.234]

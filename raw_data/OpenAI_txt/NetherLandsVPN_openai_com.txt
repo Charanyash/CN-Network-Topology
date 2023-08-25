@@ -1,0 +1,11 @@
+  2   293 ms   171 ms   179 ms  185.107.56.254 
+  3   159 ms   165 ms   265 ms  185.107.116.21 
+  4   167 ms   160 ms   175 ms  microsoft.telecity5.nl-ix.net [193.239.117.16] 
+  5   163 ms   171 ms   172 ms  ae29-0.icr01.ams30.ntwk.msn.net [104.44.239.79] 
+  6   170 ms   181 ms   185 ms  ae27-0.ier03.dus30.ntwk.msn.net [104.44.42.94] 
+  7   185 ms   168 ms   171 ms  13.104.140.165 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12   246 ms   180 ms   169 ms  13.107.246.67 

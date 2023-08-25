@@ -1,0 +1,14 @@
+  1     4 ms     2 ms     3 ms  192.168.71.160 
+  2     *        *        *     Request timed out.
+  3    75 ms    29 ms    40 ms  10.72.171.38 
+  4    49 ms    41 ms    37 ms  172.25.124.206 
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8    93 ms    49 ms    40 ms  192.168.59.112 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11    99 ms    49 ms    62 ms  74.125.51.166 
+ 12    72 ms    49 ms    98 ms  74.125.37.7 
+ 13    57 ms    77 ms    51 ms  108.170.231.79 
+ 14   149 ms    50 ms    52 ms  4.55.111.34.bc.googleusercontent.com [34.111.55.4] 

@@ -1,0 +1,7 @@
+  2   267 ms   265 ms   271 ms  unn-37-19-199-157.datapacket.com [37.19.199.157]
+  3   306 ms   327 ms   271 ms  vl203.nyc-tlx3-core-1.cdn77.com [185.229.188.172]
+  4   284 ms   284 ms   266 ms  nyk-b8-link.ip.twelve99.net [213.248.70.121]
+  5   280 ms   274 ms   272 ms  72.14.204.154
+  6   291 ms   289 ms   287 ms  142.250.234.37
+  7   280 ms   287 ms   283 ms  142.251.64.7
+  8   308 ms   337 ms   369 ms  lga25s78-in-f4.1e100.net [142.251.35.164] 

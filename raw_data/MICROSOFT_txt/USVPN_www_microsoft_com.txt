@@ -1,0 +1,13 @@
+  2   295 ms   298 ms   304 ms  unn-37-19-199-156.datapacket.com [37.19.199.156] 
+  3   331 ms   323 ms   321 ms  vl201.nyc-tlx3-core-1.cdn77.com [185.229.188.170] 
+  4     *        *        *     Request timed out.
+  5   293 ms   288 ms   324 ms  be3363.ccr42.jfk02.atlas.cogentco.com [154.54.3.125] 
+  6   343 ms   331 ms   335 ms  be3496.ccr31.jfk10.atlas.cogentco.com [154.54.0.142] 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9   292 ms   268 ms   270 ms  ae32.mpr1.ewr2.us.zip.zayo.com [64.125.28.111] 
+ 10   327 ms   363 ms   403 ms  robmartinart.com [208.184.2.173] 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14   358 ms   379 ms   407 ms  a23-47-169-232.deploy.static.akamaitechnologies.com [23.47.169.232] 

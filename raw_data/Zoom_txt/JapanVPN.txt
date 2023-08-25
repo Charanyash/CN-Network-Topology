@@ -1,0 +1,9 @@
+  2   152 ms   146 ms   159 ms  103.125.235.1 
+  3     *        *        *     Request timed out.
+  4   139 ms   135 ms   140 ms  as3258.xe-0-1-7.tedge0503.newote.bbtower.ad.jp [211.14.4.177] 
+  5   139 ms   156 ms   140 ms  xe-0-1-7.tedge0503.newote.bbtower.ad.jp [211.14.4.178] 
+  6     *        *        *     Request timed out.
+  7   146 ms   145 ms   175 ms  210.171.224.134 
+  8   129 ms   129 ms   132 ms  103.22.201.36 
+  9   133 ms   135 ms     *     170.114.52.2 
+ 10     *        *      133 ms  170.114.52.2 

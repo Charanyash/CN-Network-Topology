@@ -1,0 +1,13 @@
+  1     4 ms     3 ms     3 ms  192.168.71.160 
+  2     *        *        *     Request timed out.
+  3    78 ms    63 ms    64 ms  10.72.171.38 
+  4    45 ms    67 ms    49 ms  172.25.124.206 
+  5     *      202 ms     *     192.168.104.177 
+  6     *        *        *     Request timed out.
+  7     *        *      162 ms  172.26.100.82 
+  8   132 ms     *       91 ms  192.168.59.116 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11   120 ms    52 ms    49 ms  49.44.129.159 
+ 12   395 ms   379 ms    53 ms  162.158.52.19 
+ 13     *      155 ms    40 ms  104.18.9.132 
