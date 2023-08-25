@@ -1,0 +1,201 @@
+ASN_Number,ASN_description,ASN_Country_Code,IP_Type,ip,IP_range,IP_description,IP_Country
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,62.115.112.157,62.115.0.0/16,,SE
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,213.248.70.121,213.248.64.0/18,,SE
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,213.248.88.90,213.248.64.0/18,,SE
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,62.115.191.217,62.115.0.0/16,,SE
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,62.115.143.16,62.115.0.0/16,,SE
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,62.115.113.21,62.115.0.0/16,,SE
+AS1299,"Arelion, f/k/a Telia Carrier",SE,Global,80.91.249.11,80.91.240.0/20,Telia Company AB,EU
+AS13335,"Cloudflare, Inc.",US,Regional,172.70.120.2,172.70.120.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Global,104.16.29.57,104.16.0.0/12,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Global,162.158.226.122,162.158.226.0/23,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,103.22.201.36,103.22.201.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Global,104.16.115.21,104.16.0.0/12,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,172.70.108.4,172.70.108.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,141.101.65.26,141.101.65.0/24,"CloudFlare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,162.158.152.5,162.158.152.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,172.71.196.4,172.71.196.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,172.69.176.5,172.69.176.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,141.101.65.30,141.101.65.0/24,"CloudFlare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,172.71.100.2,172.71.100.0/24,"Cloudflare, Inc.",US
+AS13335,"Cloudflare, Inc.",US,Regional,172.71.92.2,172.71.92.0/24,"Cloudflare, Inc.",US
+AS15169,Google LLC,US,Global,142.250.56.39,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,74.125.242.145,74.125.0.0/16,Google LLC,US
+AS15169,Google LLC,US,Global,216.239.54.159,216.239.32.0/19,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.64.7,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.35.164,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,108.170.242.129,108.170.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,216.239.54.92,216.239.32.0/19,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.60.195,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,142.250.196.100,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,142.250.234.37,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,72.14.204.154,72.14.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,72.14.195.128,72.14.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.227.213,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.55.221,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,142.250.193.100,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,216.58.214.4,216.58.192.0/19,Google LLC,US
+AS15169,Google LLC,US,Global,209.85.148.162,209.85.128.0/17,Google LLC,US
+AS15169,Google LLC,US,Global,216.58.200.132,216.58.192.0/19,Google LLC,US
+AS15169,Google LLC,US,Global,108.170.248.202,108.170.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,74.125.51.166,74.125.0.0/16,Google LLC,US
+AS15169,Google LLC,US,Global,209.85.168.26,209.85.128.0/17,Google LLC,US
+AS15169,Google LLC,US,Global,209.85.253.143,209.85.128.0/17,Google LLC,US
+AS15169,Google LLC,US,Global,142.250.63.91,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,172.253.71.201,172.253.0.0/16,Google LLC,US
+AS15169,Google LLC,US,Global,216.239.47.175,216.239.32.0/19,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.55.243,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,108.170.241.161,108.170.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,142.250.224.213,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,108.170.242.97,108.170.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,108.170.231.79,108.170.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,74.125.37.7,74.125.0.0/16,Google LLC,US
+AS15169,Google LLC,US,Global,108.170.241.225,108.170.192.0/18,Google LLC,US
+AS15169,Google LLC,US,Global,142.251.227.211,142.250.0.0/15,Google LLC,US
+AS15169,Google LLC,US,Global,142.250.224.133,142.250.0.0/15,Google LLC,US
+AS16625,"Akamai Technologies, Inc.",US,Global,104.122.217.246,104.122.216.0/22,"Akamai Technologies, Inc.",US
+AS16625,"Akamai Technologies, Inc.",US,Global,23.60.109.172,23.60.108.0/22,"Akamai Technologies, Inc.",US
+AS16625,"Akamai Technologies, Inc.",US,Global,104.123.41.162,104.123.40.0/22,"Akamai Technologies, Inc.",US
+AS16625,"Akamai Technologies, Inc.",US,Global,23.47.169.232,23.47.168.0/22,"Akamai Technologies, Inc.",US
+AS174,Cogent Communications,US,Global,154.54.30.114,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.0.54,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.5.217,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.44.86,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,38.104.44.122,38.0.0.0/8,Fastly,US
+AS174,Cogent Communications,US,Global,154.54.3.125,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.27.118,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,38.19.140.218,38.0.0.0/8,"PSINet, Inc.",US
+AS174,Cogent Communications,US,Global,154.54.3.9,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.90.58,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.28.70,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.7.158,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,154.54.40.106,154.48.0.0/12,African Network Information Center,MU
+AS174,Cogent Communications,US,Global,38.122.34.130,38.0.0.0/8,Microsoft Corporation,US
+AS174,Cogent Communications,US,Global,154.54.0.142,154.48.0.0/12,African Network Information Center,MU
+AS209242,"Cloudflare, Inc.",US,Regional,170.114.52.2,170.114.52.0/24,"Zoom Video Communications, Inc",US
+AS20940,Akamai International B.V.,NL,Global,69.192.23.106,69.192.0.0/16,"Akamai Technologies, Inc.",US
+AS20940,Akamai International B.V.,NL,Global,23.9.64.150,23.0.0.0/12,"Akamai Technologies, Inc.",US
+AS20940,Akamai International B.V.,NL,Global,104.71.158.210,104.64.0.0/10,"Akamai Technologies, Inc.",US
+AS20940,Akamai International B.V.,NL,Global,2.16.43.59,2.16.0.0/13,,NL
+AS20940,Akamai International B.V.,NL,Global,23.9.122.131,23.0.0.0/12,"Akamai Technologies, Inc.",US
+AS20940,Akamai International B.V.,NL,Global,23.203.156.187,23.192.0.0/11,"Akamai Technologies, Inc.",US
+AS212238,Datacamp Limited,GB,Global,37.19.199.156,37.19.198.0/23,CDNEXT NYC,US
+AS212238,Datacamp Limited,GB,Global,37.19.199.157,37.19.198.0/23,CDNEXT NYC,US
+AS23820,"Rakuten Group, Inc.",JP,Global,133.237.16.234,133.237.0.0/16,"Rakuten Group, Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.48.169,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.48.206,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.48.171,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.48.164,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.48.165,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.48.166,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.49.107,202.72.48.0/20,"Rakuten,Inc.",JP
+AS23820,"Rakuten Group, Inc.",JP,Global,202.72.49.105,202.72.48.0/20,"Rakuten,Inc.",JP
+AS2497,Internet Initiative Japan Inc.,JP,Global,58.138.101.34,58.138.0.0/17,Internet Initiative Japan Inc.,JP
+AS2497,Internet Initiative Japan Inc.,JP,Global,202.232.9.10,202.232.0.0/16,Internet Initiative Japan Inc.,JP
+AS2497,Internet Initiative Japan Inc.,JP,Global,58.138.101.38,58.138.0.0/17,Internet Initiative Japan Inc.,JP
+AS2497,Internet Initiative Japan Inc.,JP,Global,58.138.81.173,58.138.0.0/17,Internet Initiative Japan Inc.,JP
+AS2497,Internet Initiative Japan Inc.,JP,Global,58.138.88.157,58.138.0.0/17,Internet Initiative Japan Inc.,JP
+AS2914,"NTT America, Inc.",US,Global,129.250.7.86,129.250.0.0/16,"NTT America, Inc.",US
+AS2914,"NTT America, Inc.",US,Global,129.250.6.177,129.250.0.0/16,"NTT America, Inc.",US
+AS2914,"NTT America, Inc.",US,Global,203.105.72.218,203.105.64.0/19,NTT Ltd Japan Corporation,JP
+AS2914,"NTT America, Inc.",US,Global,129.250.6.127,129.250.0.0/16,"NTT America, Inc.",US
+AS2914,"NTT America, Inc.",US,Global,129.250.6.147,129.250.0.0/16,"NTT America, Inc.",US
+AS2914,"NTT America, Inc.",US,Global,81.20.64.113,81.20.64.0/20,,GB
+AS2914,"NTT America, Inc.",US,Global,129.250.4.143,129.250.0.0/16,"NTT America, Inc.",US
+AS3257,GTT,US,Global,98.124.184.66,98.124.128.0/18,GTT,US
+AS3257,GTT,US,Global,213.200.121.6,213.200.64.0/18,,US
+AS3257,GTT,US,Global,209.120.246.61,209.120.128.0/17,GTT,US
+AS3258,xTom Tokyo,AU,Regional,91.200.240.8,91.200.240.0/24,,DE
+AS3258,xTom Tokyo,AU,Regional,103.125.235.1,103.125.235.0/24,ProtonVPN,JP
+AS3258,xTom Tokyo,AU,Regional,91.200.240.12,91.200.240.0/24,,DE
+AS3356,"Level 3 Parent, LLC",US,Global,4.55.111.34,4.0.0.0/9,"Level 3 Parent, LLC",US
+AS3356,"Level 3 Parent, LLC",US,Global,62.67.23.38,62.67.0.0/16,,GB
+AS3356,"Level 3 Parent, LLC",US,Global,195.50.117.33,195.50.64.0/18,LUMEN TECHNOLOGIES UK LIMITED,GB
+AS43350,NForce Entertainment B.V.,NL,Global,185.107.56.254,185.107.56.0/22,NForce Entertainment B.V.,NL
+AS43350,NForce Entertainment B.V.,NL,Regional,185.107.116.21,185.107.116.0/24,,NL
+AS43350,NForce Entertainment B.V.,NL,Regional,185.107.116.22,185.107.116.0/24,,NL
+AS4637,Telstra Global,HK,Global,134.159.129.18,134.159.0.0/16,Telstra Global Internet Services Network Blocks,AU
+AS4637,Telstra Global,HK,Global,202.84.178.54,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Global,202.84.249.10,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Global,202.84.141.1,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Global,202.84.148.69,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Regional,202.127.69.134,202.127.69.0/24,Telstra Global Internet Services Network /24 Block,JP
+AS4637,Telstra Global,HK,Global,202.84.153.38,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Global,202.84.140.50,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Regional,210.57.38.112,210.57.38.0/24,Telstra Global Internet Service,SG
+AS4637,Telstra Global,HK,Global,202.84.224.198,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Global,202.84.143.177,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4637,Telstra Global,HK,Global,202.84.173.22,202.84.128.0/17,Telstra Global Internet Services Network Blocks,HK
+AS4755,TATA Communications formerly VSNL is Leading ISP,IN,Global,121.244.3.222,121.244.0.0/17,Internet Service Provider,IN
+AS4755,TATA Communications formerly VSNL is Leading ISP,IN,Global,115.110.206.73,115.110.128.0/17,Internet Service Provider,IN
+AS4775,Globe Telecoms,NL,Global,193.239.118.116,193.239.116.0/22,Broadband Hosting B.V.,NL
+AS4775,Globe Telecoms,PH,Global,101.203.88.173,101.203.88.0/22,"BBIX, Inc.",JP
+AS4775,Globe Telecoms,PH,Global,101.203.89.164,101.203.88.0/22,"BBIX, Inc.",JP
+AS4775,Globe Telecoms,PH,Global,101.203.89.177,101.203.88.0/22,"BBIX, Inc.",JP
+AS4775,Globe Telecoms,PH,Global,101.203.89.88,101.203.88.0/22,"BBIX, Inc.",JP
+AS4775,Globe Telecoms,PH,Global,193.239.117.16,193.239.116.0/22,Broadband Hosting B.V.,NL
+AS54113,"Fastly, Inc.",US,Global,151.101.156.81,151.101.0.0/16,Fastly,US
+AS54113,"Fastly, Inc.",US,Global,151.101.208.81,151.101.0.0/16,Fastly,US
+AS54113,"Fastly, Inc.",US,Global,151.101.228.81,151.101.0.0/16,Fastly,US
+AS54113,"Fastly, Inc.",US,Global,151.101.152.81,151.101.0.0/16,Fastly,US
+AS54113,"Fastly, Inc.",NL,Global,151.101.36.81,151.101.0.0/16,Fastly,NL
+AS55836,Reliance Jio Infocomm Limited,IN,Global,49.45.4.86,49.45.0.0/16,Reliance Jio Infocomm Limited,IN
+AS55836,Reliance Jio Infocomm Limited,IN,Global,115.247.100.29,115.240.0.0/13,Reliance Jio Infocomm Limited,IN
+AS55836,Reliance Jio Infocomm Limited,IN,Global,49.44.129.66,49.44.128.0/17,Reliance Jio Infocomm Limited,IN
+AS55836,Reliance Jio Infocomm Limited,IN,Global,49.44.220.131,49.44.128.0/17,Reliance Jio Infocomm Limited,IN
+AS55836,Reliance Jio Infocomm Limited,IN,Global,49.44.183.1,49.44.128.0/17,Reliance Jio Infocomm Limited,IN
+AS55836,Reliance Jio Infocomm Limited,IN,Global,49.44.187.135,49.44.128.0/17,Reliance Jio Infocomm Limited,IN
+AS55836,Reliance Jio Infocomm Limited,IN,Global,49.44.187.157,49.44.128.0/17,Reliance Jio Infocomm Limited,IN
+AS59193,IIT Hyderabad,IN,Regional,103.232.241.70,103.232.241.0/24,IIT Hyderabad,IN
+AS59193,IIT Hyderabad,IN,Regional,103.232.241.2,103.232.241.0/24,IIT Hyderabad,IN
+AS59193,IIT Hyderabad,IN,Regional,103.232.241.237,103.232.241.0/24,IIT Hyderabad,IN
+AS60068,CDN77,GB,Global,185.229.188.172,185.229.188.0/23,Datacamp Limited,GB
+AS60068,CDN77,GB,Global,185.229.188.174,185.229.188.0/23,Datacamp Limited,GB
+AS60068,CDN77,GB,Regional,45.134.215.17,45.134.215.0/24,CDN77 int,GB
+AS60068,CDN77,GB,Global,185.229.188.169,185.229.188.0/23,Datacamp Limited,GB
+AS60068,CDN77,GB,Global,185.229.188.170,185.229.188.0/23,Datacamp Limited,GB
+AS64049,Reliance Jio Infocomm Pte Ltd Singapore,SG,Regional,103.198.140.43,103.198.140.0/24,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG
+AS64049,Reliance Jio Infocomm Pte Ltd Singapore,SG,Regional,103.198.140.64,103.198.140.0/24,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG
+AS64049,Reliance Jio Infocomm Pte Ltd Singapore,SG,Regional,103.198.140.249,103.198.140.0/24,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG
+AS64049,Reliance Jio Infocomm Pte Ltd Singapore,SG,Regional,103.198.140.215,103.198.140.0/24,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG
+AS64049,Reliance Jio Infocomm Pte Ltd Singapore,SG,Regional,103.198.140.176,103.198.140.0/24,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG
+AS64049,Reliance Jio Infocomm Pte Ltd Singapore,SG,Regional,103.198.140.106,103.198.140.0/24,"250 North Bridge Road, # 16-01 Raffles City Tower, Singapore",SG
+AS6461,Zayo Bandwidth,US,Global,64.125.28.111,64.124.0.0/15,American Registry for Internet Numbers,US
+AS6461,Zayo Bandwidth,US,Global,208.184.2.173,208.184.0.0/15,Zayo Bandwidth,US
+AS8075,Microsoft Corporation,US,Global,104.44.239.204,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.230.7,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.29.110,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.107.253.40,13.104.0.0/14,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.11.81,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.21.224,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.19.194,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.33.207,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.107.246.67,13.104.0.0/14,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.104.140.165,13.104.0.0/14,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.42.94,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.239.79,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.107.246.48,13.104.0.0/14,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.230.56,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.30.201,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.12.6,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.107.246.46,13.104.0.0/14,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.104.182.215,13.104.0.0/14,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.236.182,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.235.188,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.212.200,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,104.44.34.38,104.40.0.0/13,Microsoft Corporation,US
+AS8075,Microsoft Corporation,US,Global,13.107.213.48,13.104.0.0/14,Microsoft Corporation,US
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.120.11,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.117.208,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,217.160.0.86,217.160.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.117.207,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.120.32,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.117.4,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.121.28,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.116.221,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.121.9,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.120.40,212.227.0.0/16,,DE
+AS8560,"This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",DE,Global,212.227.120.229,212.227.0.0/16,,DE
+AS9607,"BroadBand Tower, Inc.",JP,Global,211.14.4.178,211.14.0.0/21,Japan Network Information Center,JP
+AS9607,"BroadBand Tower, Inc.",JP,Global,211.14.4.177,211.14.0.0/21,Japan Network Information Center,JP
+AS9607,"BroadBand Tower, Inc.",JP,Global,211.14.4.222,211.14.0.0/21,Japan Network Information Center,JP
